@@ -284,7 +284,7 @@ ALTER TABLE `claim` ADD CONSTRAINT `PK_CLAIM` PRIMARY KEY (
 ### 검색하기
 ![image](https://user-images.githubusercontent.com/95184357/209919415-9d3dcce8-edf9-4cca-9a36-52dddee9252c.png)
 
-### 전문가 서비스 - 레슨 등록, 판매내역보기
+### 전문가 서비스 - 레슨 등록, 판매내역 보기
 ![image](https://user-images.githubusercontent.com/95184357/209919436-c9940fc6-e59c-412b-89cd-db290d9d5062.png)
 
 ### 관리자 페이지
